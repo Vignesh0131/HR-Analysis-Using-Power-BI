@@ -32,7 +32,7 @@ All questions are supplemented with visualizations, including:
 4.Headcount by age: A bar chart indicating the employee by age.
 5.Headcount by Employee and Sum of Bonus % by Department: A bar chart showing Employee and Sum of Bonus % by Department
 
-Slicers for Enhanced Analysis
+## Slicers for Enhanced Analysis
 
 Implement multiple slicers enabling dynamic filtering by   
 department and country.
